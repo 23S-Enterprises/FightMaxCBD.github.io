@@ -91,7 +91,10 @@
     },
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "gdpr": false
+    "gdpr": false,
+    "cssOptimize": true,
+    "lazyLoad": true,
+    "lazyType": "nothing"
   },
   "pages": {
     "index.html": {
